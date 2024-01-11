@@ -1,4 +1,4 @@
-# Java_School_Beginner
+# TechPit_Javaスクール_総合問題
 1, 概要  
 Javaの基本的なプログラミングを学び、演習問題に取り組みました。
 - 変数
